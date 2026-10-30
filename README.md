@@ -35,6 +35,8 @@ The profile fields (`StudentName`, `StudentId`) come from the original coursewor
 |---|---|
 | [runner/](runner/README.md) | C# console runner and COM controller |
 | [tools/](tools/README.md) | Local transcription helper (standalone) |
+| [tools/pdf-generators/](tools/pdf-generators/README.md) | Study-guide PDF generators (standalone) |
+| [macros/](macros/README.md) | Earlier VBA macros, kept for reference |
 
 ---
 
