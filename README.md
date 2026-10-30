@@ -25,6 +25,17 @@ dotnet run -c Release -- profiles.json [--smoke-test]
 
 ## Status
 
-Experimental. COM connection, Equation Manager and basic gear geometry are automated. The final tooth profile, swept cut, circular pattern, assembly mates and real threaded geometry are intentionally left staged (the tool writes pending-notes files instead of claiming success) because selections depend on the SolidWorks version. Always review generated models by hand.
+🟡 Experimental. COM connection, Equation Manager and basic gear geometry are automated. The final tooth profile, swept cut, circular pattern, assembly mates and real threaded geometry are intentionally left staged (the tool writes pending-notes files instead of claiming success) because selections depend on the SolidWorks version. Always review generated models by hand.
 
 The profile fields (`StudentName`, `StudentId`) come from the original coursework use; the example file contains placeholders only.
+
+## Folder guide
+
+| Folder | What it holds |
+|---|---|
+| [runner/](runner/README.md) | C# console runner and COM controller |
+| [tools/](tools/README.md) | Local transcription helper (standalone) |
+
+---
+
+Built by Monoga · [github.com/Monoga2025](https://github.com/Monoga2025)
