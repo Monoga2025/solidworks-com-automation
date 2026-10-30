@@ -1,0 +1,17 @@
+bin/
+obj/
+*.user
+.vs/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.mp4
+*.vtt
+*.flac
+Thumbs.db
+desktop.ini

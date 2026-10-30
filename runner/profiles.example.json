@@ -1,0 +1,36 @@
+[
+  {
+    "StudentName": "Student A",
+    "StudentId": "ID_1",
+    "Z1": 38,
+    "Z2": 19,
+    "ModuleM": 2,
+    "AlphaDeg": 20,
+    "HelixDeg": 25,
+    "ThreadsPerInch": 5,
+    "OutputRoot": "C:\\SolidWorksQuizOutput"
+  },
+  {
+    "StudentName": "Student B",
+    "StudentId": "ID_2",
+    "Z1": 36,
+    "Z2": 18,
+    "ModuleM": 2,
+    "AlphaDeg": 20,
+    "HelixDeg": 5,
+    "ThreadsPerInch": 5,
+    "OutputRoot": "C:\\SolidWorksQuizOutput"
+  },
+  {
+    "StudentName": "Student C",
+    "StudentId": "ID_3",
+    "Z1": 24,
+    "Z2": 48,
+    "ModuleM": 3,
+    "AlphaDeg": 15,
+    "HelixDeg": 10,
+    "ThreadsPerInch": 5,
+    "OutputRoot": "C:\\SolidWorksQuizOutput"
+  }
+]
+
